@@ -1,0 +1,40 @@
+.teal{
+    color: teal;
+}
+body {
+    font-family: sans-serif
+    color: #777777
+    line-height: 25px;
+ }
+ half-width{
+     width: 50%;
+     float: left;
+ }
+.side-img{
+     width: 50%;
+     padding: 25%;
+ }
+.fb-btn{
+    color: white;
+    background: #00CED1;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+h1{
+    font-size: 1.5em;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.experiences{
+    padding: 30px;
+    background-color: RGB(238, 251, 255);
+    margin: 30px;
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
